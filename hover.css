@@ -1,0 +1,91 @@
+.feu_div:hover .buildings { transform: scale(1.05); }
+
+.feu_div:hover .main_text { visibility: visible; }
+
+.feu_div:hover .main_logo { visibility: hidden; }
+
+.beige_div:hover .buildings { transform: scale(1.05); }
+
+.beige_div:hover .ria { visibility: visible; }
+
+.beige_div:hover .mentor_1 { visibility: hidden; }
+
+.lb_div:hover .buildings { transform: scale(1.05); }
+
+.lb_div:hover .vrbreak_3 { visibility: visible; }
+
+.lb_div:hover .break_3 { visibility: hidden; }
+
+.apartment_div:hover .buildings { transform: scale(1.05); }
+
+.apartment_div:hover .vrmezz_3 { visibility: visible; }
+
+.apartment_div:hover .mezz_3 { visibility: hidden; }
+
+.hospital_div:hover .buildings { transform: scale(1.05); }
+
+.hospital_div:hover .valencia { visibility: visible; }
+
+.hospital_div:hover .mentor_3 { visibility: hidden; }
+
+.blue_div:hover .buildings { transform: scale(1.05); }
+
+.blue_div:hover .vrmezz_2 { visibility: visible; }
+
+.blue_div:hover .mezz_2 { visibility: hidden; }
+
+.bakery_div:hover .buildings { transform: scale(1.05); }
+
+.bakery_div:hover .vrmezz_1 { visibility: visible; }
+
+.bakery_div:hover .mezz_1 { visibility: hidden; }
+
+.bank_div:hover .buildings { transform: scale(1.05); }
+
+.bank_div:hover .vrbreak_2 { visibility: visible; }
+
+.bank_div:hover .break_2 { visibility: hidden; }
+
+.white_div:hover .buildings { transform: scale(1.05); }
+
+.white_div:hover .leo { visibility: visible; }
+
+.white_div:hover .mentor_5 { visibility: hidden; }
+
+.triplets_div:hover .buildings { transform: scale(1.05); }
+
+.triplets_div:hover .lee { visibility: visible; }
+
+.triplets_div:hover .mentor_2 { visibility: hidden; }
+
+.small_triplets_div:hover .buildings { transform: scale(1.05); }
+
+.small_triplets_div:hover .vrbreak_1 { visibility: visible; }
+
+.small_triplets_div:hover .break_1 { visibility: hidden; }
+
+.pharmacy_div:hover .buildings { transform: scale(1.05); }
+
+.pharmacy_div:hover .menguin { visibility: visible; }
+
+.pharmacy_div:hover .mentor_4 { visibility: hidden; }
+
+.corner_div:hover .buildings { transform: scale(1.05); }
+
+.corner_div:hover .vrmpr_3 { visibility: visible; }
+
+.corner_div:hover .mpr_3 { visibility: hidden; }
+
+.tallest_div:hover .buildings { transform: scale(1.05); }
+
+.tallest_div:hover .vrmpr_2 { visibility: visible; }
+
+.tallest_div:hover .mpr_2 { visibility: hidden; }
+
+.cafe_div:hover .buildings { transform: scale(1.05); }
+
+.cafe_div:hover .vrmpr_1 { visibility: visible; }
+
+.cafe_div:hover .mpr_1 { visibility: hidden; }
+
+
